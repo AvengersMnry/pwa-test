@@ -32,7 +32,7 @@
         ]
       },
       {
-        "source": "registerServiceWorker.js",
+        "source": "service-worker.js",
         "headers": [
           {
             "key": "Cache-Control",

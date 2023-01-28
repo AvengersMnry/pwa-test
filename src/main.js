@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import './registerServiceWorker'
 // Added by the CLI
-import '.registerServiceWorker';
 
 createApp(App).mount('#app');
